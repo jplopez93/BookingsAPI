@@ -2,4 +2,5 @@
 *.sqlite3
 *env*
 *local.json
-*credentials*
+/credentials
+*developing.json*
