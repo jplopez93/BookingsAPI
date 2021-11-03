@@ -1,0 +1,1 @@
+web: gunicorn proyectoPAT.wsgi
